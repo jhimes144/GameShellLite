@@ -59,7 +59,7 @@ runner.Execute("hello");
 ```csharp
 // Command with a single string argument
 runner.RegisterCommand("greet")
-      .WithArg<string>()
+      .WithArg<string>() // Valid types are (string, bool, float/double/decimal)
       .WithExecution(name => Console.WriteLine($"Hello, {name}!"));
 
 runner.Execute("greet \"Alice\"");
