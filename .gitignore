@@ -1,0 +1,41 @@
+/packages/
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio
+.vs/
+.VSCodeCounter/
+
+# Rider
+.idea/
+riderModule.iml
+/_ReSharper.Caches/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+*.db
+*.db-wal
+*.db-shm
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+BuildArtifacts/
+msbuild.log
+msbuild.err
+msbuild.wrn

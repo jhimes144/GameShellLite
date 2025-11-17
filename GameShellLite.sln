@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShellLite", "GameShellLite\GameShellLite.csproj", "{DEAC3A9E-96F3-42AC-A5AA-5BA1B14EE52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShellLite.Tests", "GameShellLite.Tests\GameShellLite.Tests.csproj", "{F4EE8769-0873-4D2B-BFD3-FFCED6DA4EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAC3A9E-96F3-42AC-A5AA-5BA1B14EE52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAC3A9E-96F3-42AC-A5AA-5BA1B14EE52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAC3A9E-96F3-42AC-A5AA-5BA1B14EE52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAC3A9E-96F3-42AC-A5AA-5BA1B14EE52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EE8769-0873-4D2B-BFD3-FFCED6DA4EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EE8769-0873-4D2B-BFD3-FFCED6DA4EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EE8769-0873-4D2B-BFD3-FFCED6DA4EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EE8769-0873-4D2B-BFD3-FFCED6DA4EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DBE53A-C007-4ACA-8FD7-7043FF46B0BA}
+	EndGlobalSection
+EndGlobal
