@@ -1,5 +1,8 @@
 # GameShellLite
 
+### [NuGet](https://www.nuget.org/packages/GameShellLite) [![NuGet](https://img.shields.io/nuget/v/AvaStride?color=blue)](https://www.nuget.org/packages/GameShellLite)
+
+
 A lightweight, simple, and type-safe command parsing and execution library for .NET with valve-like command syntax. Created for building in-game consoles but works for building command-line interfaces, debug consoles, or any application that needs to parse and execute text-based commands with typed arguments.
 
 A command could look like this:
