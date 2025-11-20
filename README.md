@@ -15,7 +15,7 @@ set_position player1 100 200 50.5
 Targets .Net Standard 2.1. Therefore compatiable with the Unity game engine, as well with .NET Core 3.0+, .NET 5+, .NET Framework 4.7.2+
 
 ## High Level API
-(Not AOT Compatiable with trimming enabled)
+(Not AOT Compatible with trimming enabled)
 
 - **Fluent API** - Intuitive method chaining for building commands
 - **Type Safety** - Strongly-typed arguments (string, bool, float/double/decimal)
@@ -25,7 +25,7 @@ Targets .Net Standard 2.1. Therefore compatiable with the Unity game engine, as 
 - **Help System** - Built-in help text support for commands
 
 ## Low Level API
-(AOT Compatiable)
+(AOT Compatible)
 
 ```csharp
 var command = CommandParser.Parse("setPosition ""player1"" 100 200 50.5");
