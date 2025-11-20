@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleLang\GameShellLite.csproj" />
+    <ProjectReference Include="..\GameShellLite\GameShellLite.csproj" />
   </ItemGroup>
 
   <ItemGroup>
